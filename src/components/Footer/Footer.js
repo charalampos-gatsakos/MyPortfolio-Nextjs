@@ -20,7 +20,7 @@ const Footer = () => {
         <SocialIconsContainer>
      <SocialContainer>
           <CompanyContainer>
-            <Slogan>I Don't Have Dreams, I Make Things Happen</Slogan>
+            <Slogan>First Solve The Problem Then, Write The Code</Slogan>
             <Slogan>"Go One More"</Slogan>
           </CompanyContainer>
           <SocialIcons href="https://github.com/Charalampos-Gatsakos">

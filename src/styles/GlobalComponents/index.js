@@ -221,6 +221,7 @@ export const ButtonFront = styled.button`
 
   &:hover {
     opacity: 0;
+    
   }
   &:focus {
     outline: none;
