@@ -20,8 +20,8 @@ const Footer = () => {
         <SocialIconsContainer>
      <SocialContainer>
           <CompanyContainer>
-            <Slogan>First Solve The Problem Then, Write The Code</Slogan>
-            <Slogan>"Go One More"</Slogan>
+            <Slogan>First Solve The Problem Then,</Slogan>
+            <Slogan>"Go One More" </Slogan>
           </CompanyContainer>
           <SocialIcons href="https://github.com/Charalampos-Gatsakos">
         <AiFillGithub size="3rem" />
