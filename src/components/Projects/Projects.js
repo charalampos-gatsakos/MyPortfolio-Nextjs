@@ -29,7 +29,7 @@ const Projects = () => (
             <ExternalLinks href={visit}>Code</ExternalLinks>
             <ExternalLinks href={source}>Source</ExternalLinks>
           </UtilityList>
-        </BlogCard>
+        </BlogCard> 
       ))}
     </GridContainer>
   </Section>
