@@ -12,7 +12,7 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        Hi My Name Is Charalampos Gatsakos And  I'm a FullStack Softwhere Engineer
+        Hi My Name Is Charalampos Gatsakos And I'm a C# ASP.Net FullStack Softwhere Engineer
       </SectionText>
       <Button onClick={() => window.location = 'https://github.com/Charalampos-Gatsakos?tab=repositories'}>My Github Repositories</Button>
     </LeftSection>
