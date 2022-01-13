@@ -22,14 +22,10 @@ const Header = () =>  (
      </li>
      <li>
         <Link href="#tech">
-            <NavLink>tech</NavLink>
+            <NavLink>Technologies</NavLink>
         </Link>
      </li>
-     <li>
-        <Link href="#about">
-            <NavLink>about</NavLink>
-        </Link>
-     </li>
+     
    </Div2>
    <Div3>
      <SocialIcons href="https://github.com/Charalampos-Gatsakos">
