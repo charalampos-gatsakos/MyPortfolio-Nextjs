@@ -59,6 +59,7 @@ export const NavLink = styled.a`
   &:hover {
     color: #fff;
     opacity: 1;
+    
     cursor: pointer;
   }
   @media ${(props) => props.theme.breakpoints.sm} {
@@ -122,7 +123,7 @@ border-radius: 50px;
   padding: 8px;
 &:hover {
     background-color: #212d45;
-    transform: scale(1.2);
+    transform: scale(1.5);
     cursor: pointer;
     
   }
