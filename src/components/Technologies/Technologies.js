@@ -29,7 +29,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            C# ASP.Net , Node , MSSQL 
+            C# ASP.Net , Node.Js , MSSQL 
           </ListParagraph>
         </ListContainer>
       </ListItem>
