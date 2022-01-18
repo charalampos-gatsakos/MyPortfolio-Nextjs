@@ -39,7 +39,7 @@ const Technologies = () =>  (
           <ListTitle>Adobe</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            Premiere-Pro , Aftereffects , Photoshop 
+            Premiere-Pro , Aftereffects , Photoshop , Lightroom
           </ListParagraph>
         </ListContainer>
       </ListItem>
