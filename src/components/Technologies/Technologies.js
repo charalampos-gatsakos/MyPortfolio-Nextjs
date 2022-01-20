@@ -49,7 +49,7 @@ const Technologies = () =>  (
           <ListTitle>Rasberry Pi</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            Raspbian , DietPi   
+            Raspbian , DietPi    
           </ListParagraph>
         </ListContainer>
       </ListItem>
