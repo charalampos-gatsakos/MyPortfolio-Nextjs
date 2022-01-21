@@ -9,8 +9,8 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Dr.Builder ASP.Net ',
-    description: "Using ASP.Net And Entity Framework I Have Created A FullStack Project With CRUD Functionality The Helps You Build Your Own PC Build .",
+    title: 'Group Project (Dr.Builder) ',
+    description: "Using ASP.Net And Entity Framework We Have Created A FullStack Project With CRUD Functionality The Helps You Build Your Own PC Build .",
       image: '/images/Dr.5.png',
       tags: ['ASP.Net', 'Entity Framework'],
     source: 'https://github.com/dimitriskaratzas/GroupProject',
