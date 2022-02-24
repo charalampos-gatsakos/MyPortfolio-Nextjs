@@ -46,7 +46,7 @@ const Technologies = () =>  (
       <ListItem>
         <DiRasberryPi size="3rem" />
         <ListContainer>
-          <ListTitle>Rasberry Pi</ListTitle>
+          <ListTitle>Raspberry Pi</ListTitle>
           <ListParagraph>
             Experience with <br/>
             Raspbian , DietPi    
