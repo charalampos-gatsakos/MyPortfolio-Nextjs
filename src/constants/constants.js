@@ -3,7 +3,7 @@ export const projects = [
     title: 'My Weather App With React.Js',
     description: "Using React And Javascript I Created My First Weather App That You Can See Tempeture , Dinamic Background And Many More ... ",
       image: '/images/My-Weather-App2.png',
-      tags: ['React', 'Javascript'],
+      tags: ['React', 'JavaScript'],
     source: 'https://charalampos-gatsakos.github.io/my-weather-app/',
     visit: 'https://github.com/Charalampos-Gatsakos/my-weather-app',
     id: 0,
