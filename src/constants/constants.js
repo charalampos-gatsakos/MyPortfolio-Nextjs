@@ -15,7 +15,7 @@ export const projects = [
       tags: ['ASP.Net', 'Entity Framework'],
     source: 'https://github.com/dimitriskaratzas/GroupProject',
     visit: 'https://github.com/dimitriskaratzas/GroupProject',
-    id: 0,
+    id: 1,
   }
 ];
 
